@@ -7,9 +7,10 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "vitest run"
+    "test": "vitest"
   },
   "devDependencies": {
+    "prettier": "^3.9.6",
     "vitest": "^4.1.10"
   }
 }
